@@ -1,7 +1,3 @@
-# 🗺 Robben's Portfolio
-
-Welcome to my data portfolio! Here, I document a summary of my projects spanning mathematical analysis, data science, machine learning, and engineering.
-
 ## 📚 Table of Contents
 - [Mathematical Analysis](#mathematical-analysis)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
