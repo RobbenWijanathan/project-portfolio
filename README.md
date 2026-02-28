@@ -4,7 +4,7 @@
 - [Machine Learning](#machine-learning)
 - [Deep Learning](#deep-learning)
 - [AI Engineering](#ai-engineering)
-- [SQL](#sql)
+- [SQL & Database](#sql)
 - [Others](#others)
 
 ---
@@ -52,7 +52,7 @@
 
 ---
 
-# SQL
+# SQL & Database
 
 | Project Repo | Date | Tools | Description | Tags |
 |---|---|---|---|---|
