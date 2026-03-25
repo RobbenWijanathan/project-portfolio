@@ -66,7 +66,7 @@
 
 | Project Repo | Date | Tools | Description | Tags |
 |---|---|---|---|---|
-| 🏆 [mcfitb-dsc-2026](https://github.com/RobbenWijanathan/mcfitb-dsc-2026) | 2026 | - | Ensemble time-series forecasting for health insurance claims (frequency, severity & total). | time-series, forecasting, ensemble-methods, health-insurance, claims-modeling |
+| 🏆 [mcfitb-dsc-2026](https://github.com/RobbenWijanathan/mcfitb-dsc-2026) | 2026 | Python, Jupyter Notebook | Ensemble time-series forecasting for health insurance claims (frequency, severity & total). | time-series, forecasting, ensemble-methods, health-insurance, claims-modeling |
 
 ---
 
