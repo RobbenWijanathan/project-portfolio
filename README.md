@@ -5,6 +5,7 @@
 - [Deep Learning](#deep-learning)
 - [AI Engineering](#ai-engineering)
 - [SQL & Database](#sql)
+- [Competitions](#competitions)
 - [Others](#others)
 
 ---
@@ -61,6 +62,14 @@
 
 ---
 
+# Competitions
+
+| Project Repo | Date | Tools | Description | Tags |
+|---|---|---|---|---|
+| 🏆 [mcfitb-dsc-2026](https://github.com/RobbenWijanathan/mcfitb-dsc-2026) | 2026 | - | Ensemble time-series forecasting for health insurance claims (frequency, severity & total). | time-series, forecasting, ensemble-methods, health-insurance, claims-modeling |
+
+---
+
 # Others
 
 | Project Repo | Date | Tools | Description | Tags |
@@ -68,13 +77,3 @@
 | [rlc-rectifier](https://github.com/RobbenWijanathan/rlc-rectifier) | Nov, 2025 | Python | DIY RLC Rectifier for LED Power Supply. Converts 5 V AC from a micro-hydro generator to DC using resistor, inductor, and capacitor filtering to safely power 2 V LEDs at up to 20 mA. | computational-physics, current, voltage, circuit-analysis, rlc-circuit |
 | [data-pad](https://github.com/RobbenWijanathan/data-pad) | Oct, 2024 | C | Data Pad is a lightweight, ASCII-based program written in C that provides two key functionalities: StringFlip & Salvatore Property. | string-manipulation, sorting-algorithms, data-processing, search-algorithms, c-programming |
 | [boogle](https://github.com/RobbenWijanathan/boogle) | April, 2025 | C++ | A C program that manages a slang dictionary using a Trie data structure. It allows fast adding, searching, and prefix-based retrieval of slang words. | searching-algorithms, prefix-tree, c-programming, data-structures-and-algorithms, trie-data-structure |
-
----
-
-## 📫 Connect With Me
-
-GitHub: [@RobbenWijanathan](https://github.com/RobbenWijanathan)
-
----
-
-*Last Updated: February 2026*
