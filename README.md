@@ -26,6 +26,7 @@
 | 🎸 [string-signal-analysis](https://github.com/RobbenWijanathan/string-signal-analysis) | Nov, 2025 | Python, Jupyter Notebook | A comparative signal analysis of three string instruments (violin, guitar, and bass) using Fourier Transform and Cubic Spline Interpolation methods. | signal-processing, fourier-analysis, interpolation-methods, cubic-splines, string-instruments |
 | 💊 [drug-consumption-modeling](https://github.com/RobbenWijanathan/drug-consumption-modeling) | Dec, 2025 | R | The relationship between personality traits and drug consumption behaviors using the Drug Consumption (Quantified) dataset. | data-science, data-mining, data-visualization, behavior-analysis, quantitative-analysis |
 | 💰 [income-predict](https://github.com/RobbenWijanathan/income-predict) | Dec, 2024 | Python, Jupyter Notebook | Income Predict is a Python-based data science project that analyzes income levels using data visualization, encoding techniques, and machine learning models. | data-science, machine-learning, data-visualization, classification, income-prediction |
+| 🏆 [mcfitb-dsc-2026](https://github.com/RobbenWijanathan/mcfitb-dsc-2026) | 2026 | Python, Jupyter Notebook | Ensemble time-series forecasting for health insurance claims (frequency, severity & total). | time-series, forecasting, ensemble-methods, health-insurance, claims-modeling |
 
 ---
 
@@ -35,6 +36,7 @@
 |---|---|---|---|---|
 | 💊 [drug-consumption-modeling](https://github.com/RobbenWijanathan/drug-consumption-modeling) | Dec, 2025 | R | The relationship between personality traits and drug consumption behaviors using the Drug Consumption (Quantified) dataset. | data-science, data-mining, data-visualization, behavior-analysis, quantitative-analysis |
 | 💰 [income-predict](https://github.com/RobbenWijanathan/income-predict) | Dec, 2024 | Python, Jupyter Notebook | Income Predict is a Python-based data science project that analyzes income levels using data visualization, encoding techniques, and machine learning models. | data-science, machine-learning, data-visualization, classification, income-prediction |
+| 🏆 [mcfitb-dsc-2026](https://github.com/RobbenWijanathan/mcfitb-dsc-2026) | 2026 | Python, Jupyter Notebook | Ensemble time-series forecasting for health insurance claims (frequency, severity & total). | time-series, forecasting, ensemble-methods, health-insurance, claims-modeling |
 
 ---
 
