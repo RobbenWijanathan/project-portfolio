@@ -60,7 +60,7 @@
 
 | Project Repo | Date | Tools | Description | Tags |
 |---|---|---|---|---|
-| 🚧 In Progress | - | - | SQL projects coming soon | - |
+| 🛢️ [relation-normalization](https://github.com/RobbenWijanathan/relation-normalization) | 2026 | Jupyter Notebook, SQL, Excel | Normalization of an unclean fintech product sales dataset from a flat table to 3NF using Python and SQL. | sql, database, relational-databases, normalization-database, schema-design |
 
 ---
 
