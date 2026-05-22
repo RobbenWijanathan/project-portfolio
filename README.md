@@ -16,6 +16,7 @@
 |---|---|---|---|---|
 | 🎸 [string-signal-analysis](https://github.com/RobbenWijanathan/string-signal-analysis) | Nov, 2025 | Python, Jupyter Notebook | A comparative signal analysis of three string instruments (violin, guitar, and bass) using Fourier Transform and Cubic Spline Interpolation methods. | signal-processing, fourier-analysis, interpolation-methods, cubic-splines, string-instruments |
 | 📊 [egier-production-trend-analysis](https://github.com/RobbenWijanathan/egier-production-trend-analysis) | Sep, 2025 | Python, Jupyter Notebook | Numerical analysis of EGIER's monthly bag production to model trends with polynomial regression, predict warehouse capacity limits, and analyze production rate and total output. | scientific-computing, numerical-methods, polynomial-regression, numerical-analysis, trend-analysis |
+| 🎼 [adversarial-homr](https://github.com/RobbenWijanathan/adversarial-homr) | May, 2026 | Python, Jupyter Notebook, MusicXML, PyTorch | Analyzing the robustness of HOMR against adversarial perturbations and real-world image distortions in Optical Music Recognition (OMR) systems. | optical-music-recognition, robustness, adversarial-machine-learning, unet-image-segmentation, transformers-models |
 
 ---
 
@@ -44,7 +45,7 @@
 
 | Project Repo | Date | Tools | Description | Tags |
 |---|---|---|---|---|
-| 🚧 In Progress | - | - | Deep learning projects coming soon | - |
+| 🎼 [adversarial-homr](https://github.com/RobbenWijanathan/adversarial-homr) | May, 2026 | Python, Jupyter Notebook, MusicXML, PyTorch | Analyzing the robustness of HOMR against adversarial perturbations and real-world image distortions in Optical Music Recognition (OMR) systems. | optical-music-recognition, robustness, adversarial-machine-learning, unet-image-segmentation, transformers-models |
 
 ---
 
