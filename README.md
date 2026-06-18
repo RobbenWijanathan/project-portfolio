@@ -40,6 +40,7 @@
 | 💰 [income-predict](https://github.com/RobbenWijanathan/income-predict) | Dec, 2024 | Python, Jupyter Notebook | Income Predict is a Python-based data science project that analyzes income levels using data visualization, encoding techniques, and machine learning models. | data-science, machine-learning, data-visualization, classification, income-prediction |
 | 🏆 [mcfitb-dsc-2026](https://github.com/RobbenWijanathan/mcfitb-dsc-2026) | 2026 | Python, Jupyter Notebook | Ensemble time-series forecasting for health insurance claims (frequency, severity & total). | time-series, forecasting, ensemble-methods, health-insurance, claims-modeling |
 | 📋 [spotify-recommendation-system](https://github.com/RobbenWijanathan/spotify-recommendation-system) | 2026 | Python, Jupyter Notebook, React | A web-based music recommendation system that generates 25 personalized song recommendations using KNN cosine similarity based on users’ top tracks, powered by an 80,000+ Spotify songs dataset. | webapp, recommendation-system, cosine-similarity, knn, spotifyapi |
+| 📋 [fit-recommendation-2026](https://github.com/RobbenWijanathan/spotify-recommendation-system) | 2026 | Python, Jupyter Notebook | Unsupervised anomaly detection for P2P smart grid blockchain transactions using Isolation Forest, LOF, One-Class SVM, and ensemble voting. | anomaly-detection, unsupervised-machine-learning, smart-grid, local-outlier-factor, isolation-forest, p2p-network, one-class-svm |
 
 ---
 
