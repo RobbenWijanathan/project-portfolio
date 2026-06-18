@@ -73,6 +73,7 @@
 | Project Repo | Date | Tools | Description | Tags |
 |---|---|---|---|---|
 | 🏆 [mcfitb-dsc-2026](https://github.com/RobbenWijanathan/mcfitb-dsc-2026) | 2026 | Python, Jupyter Notebook | Ensemble time-series forecasting for health insurance claims (frequency, severity & total). | time-series, forecasting, ensemble-methods, health-insurance, claims-modeling |
+| 📋 [fit-recommendation-2026](https://github.com/RobbenWijanathan/spotify-recommendation-system) | 2026 | Python, Jupyter Notebook | Unsupervised anomaly detection for P2P smart grid blockchain transactions using Isolation Forest, LOF, One-Class SVM, and ensemble voting. | anomaly-detection, unsupervised-machine-learning, smart-grid, local-outlier-factor, isolation-forest, p2p-network, one-class-svm |
 
 ---
 
